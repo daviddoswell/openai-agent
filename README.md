@@ -1,3 +1,5 @@
+![robot](https://github.com/daviddoswell/openai-agent/assets/111773826/4a5d6a5d-4215-411c-afa8-d9ecb92aff48)
+
 ### 🙋🏽‍♀️ Tutorial: Building a Multipurpose Chatbot with Python and OpenAI
 
 Welcome to this tutorial! By the end, you'll have a chatbot that can perform basic math, generate creative writing, and even assist with writing in the style of Shakespeare. Let's get started!
